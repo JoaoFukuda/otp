@@ -775,3 +775,13 @@ bif erlang:unalias/1
 bif erlang:monitor/3
 bif erlang:error/3
 bif maps:from_keys/2
+
+#
+# Custom
+#
+
+bif iscs:checktype/1 iscs_checktype_1
+bif iscs:insert/1 iscs_insert_1
+bif iscs:lookup/1 iscs_lookup_1
+bif iscs:update/2 iscs_update_2
+bif iscs:update_counter/2 iscs_update_counter_2
