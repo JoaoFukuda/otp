@@ -107,6 +107,7 @@ MODULES = \
 	inet_tcp_dist \
 	inet_udp \
 	inet_sctp \
+	iscs \
 	kernel \
 	kernel_config \
 	kernel_refc \
